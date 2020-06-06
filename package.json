@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/AlphaTechnolog/apolloServer-graphql#readme",
   "dependencies": {
-    "apollo-server-express": "^2.9.14",
+    "apollo-server-express": "^2.14.2",
     "express": "^4.17.1"
   },
   "devDependencies": {
